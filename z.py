@@ -39,9 +39,5 @@ def copy_favorites():
             time.sleep(100)
 
 
-    
-
-
-
 if __name__ == "__main__":
     copy_favorites()
