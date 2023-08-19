@@ -1,6 +1,7 @@
 import os
 import shutil
 import subprocess
+import time
 
 def copy_favorites():
     """复制导航的静态文件到博客的目录"""
